@@ -1,0 +1,16 @@
+{
+  "name": "examplebot",
+  "version": "0.0.1",
+  "description": "Just an example discord bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codified",
+  "license": "ISC"
+}
